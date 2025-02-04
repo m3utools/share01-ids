@@ -19,6 +19,7 @@ jobs:
           cd epg_files
           curl -sSL https://epgshare01.online/epgshare01/ | grep -oP '(?<=href=")[^"]+\.txt' | while read -r file; do
             curl -O "https://epgshare01.online/epgshare01/$file"
+            tail -n +4 "$file" > "tmp_$file" && mv "tmp_$file" "$file"
           done
 
       - name: Commit and push changes
@@ -26,5 +27,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add epg_files
-          git commit -m "Update EPG TXT files" || exit 0  # Prevent error if no changes
+          git commit -m "Update EPG TXT files (removed first 3 lines)" || exit 0  # Prevent error if no changes
           git push --force origin main
