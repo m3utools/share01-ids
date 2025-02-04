@@ -1,5 +1,3 @@
--- epg_ripper_RAKUTEN_PL1 --
-
 PL:.Africanews.English.pl
 PL:.AFV.Family.pl
 PL:.American.Crime.Channel.pl

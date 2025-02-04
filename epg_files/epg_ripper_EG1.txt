@@ -1,5 +1,3 @@
--- epg_ripper_EG1 --
-
 2M.TV.eg
 Abu.Dhabi.TV.eg
 Al.Aoula.Morocco.eg

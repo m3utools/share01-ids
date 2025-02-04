@@ -1,5 +1,3 @@
--- epg_ripper_PK1 --
-
 AJK.TV.pk
 Bolan.pk
 PTV.Global.pk

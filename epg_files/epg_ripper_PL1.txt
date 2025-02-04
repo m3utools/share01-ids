@@ -1,5 +1,3 @@
--- epg_ripper_PL1 --
-
 13th.Street.pl
 13.tv.3D.pl
 13.tv.HD.pl

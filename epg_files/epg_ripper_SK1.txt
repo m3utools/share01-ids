@@ -1,5 +1,3 @@
--- epg_ripper_SK1 --
-
 :24.HD.sk
 AMC.HD.sk
 Animal.Planet.HD.sk

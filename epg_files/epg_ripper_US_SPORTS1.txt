@@ -1,5 +1,3 @@
--- epg_ripper_US_SPORTS1 --
-
 MILB-AberdeenIronBirds.us
 MILB-AkronRubberDucks.us
 MILB-AlbuquerqueIsotopes.us

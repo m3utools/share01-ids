@@ -1,5 +1,3 @@
--- epg_ripper_ASIANTELEVISION1 --
-
 ABP.News.dk
 ARY.QTV.dk
 ATN.Aastha.dk

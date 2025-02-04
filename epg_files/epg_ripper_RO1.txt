@@ -1,5 +1,3 @@
--- epg_ripper_RO1 --
-
 24.Mix.Teleshop.HD.ro
 24.Mix.Teleshop.ro
 360TuneBox.ro

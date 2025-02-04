@@ -1,5 +1,3 @@
--- epg_ripper_UK1 --
-
 4Music.uk
 4seven.uk
 5ACTION.uk

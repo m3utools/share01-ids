@@ -1,5 +1,3 @@
--- epg_ripper_RAKUTEN_FR1 --
-
 CGTN.fr
 FR:.100%.Docs.fr
 FR:.ADN.fr

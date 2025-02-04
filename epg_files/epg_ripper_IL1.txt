@@ -1,5 +1,3 @@
--- epg_ripper_IL1 --
-
 1+1.il
 777.Internal.Use.Only.il
 ANIMAL.PLANET.il

@@ -1,5 +1,3 @@
--- epg_ripper_MX1 --
-
 Azteca.(XHOR).mx
 Canal.11.de.México.mx
 Canal.14.de.México.mx

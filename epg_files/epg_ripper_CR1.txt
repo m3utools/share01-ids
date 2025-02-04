@@ -1,5 +1,3 @@
--- epg_ripper_CR1 --
-
 Canal.11.de.Costa.Rica.cr
 Canal.13.de.Costa.Rica.cr
 Canal.2.de.Panamá.(TVN-2).cr

@@ -1,5 +1,3 @@
--- epg_ripper_FI1 --
-
 AlfaTV.fi
 Al.Jazeera.fi
 Animal.Planet.fi

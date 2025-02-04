@@ -1,5 +1,3 @@
--- epg_ripper_PA1 --
-
 Canal.13.de.Panamá.(Telemetro).pa
 Canal.24.Horas.(TVE).pa
 Canal.2.de.Panamá.(TVN-2).pa

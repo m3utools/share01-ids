@@ -1,5 +1,3 @@
--- epg_ripper_SPORTKLUB1 --
-
 SK10.ba
 SK.10.HD.(SR).ba
 SK1.ba

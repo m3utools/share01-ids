@@ -1,5 +1,3 @@
--- epg_ripper_PH1 --
-
 A2Z.ph
 ANC.HD.ph
 ANC.ph

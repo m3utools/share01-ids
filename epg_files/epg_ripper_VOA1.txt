@@ -1,5 +1,3 @@
--- epg_ripper_VOA1 --
-
 AFGHAN.CHANNEL.-.VOA.voa
 AFRICA.CHANNEL.-.VOA.voa
 BURMESE.CHANNEL.-.VOA.-.RFA.voa

@@ -1,5 +1,3 @@
--- epg_ripper_PE1 --
-
 A&amp;E.(A&amp;E).pe
 A&amp;E.HD.(A&amp;E.HD).pe
 AMERICA.TELEVISION.(America.TV).pe

@@ -1,5 +1,3 @@
--- epg_ripper_JM1 --
-
 BET.Caribbean.jm
 Cala.Action.jm
 Cala.Classics.jm

@@ -1,5 +1,3 @@
--- epg_ripper_SA1 --
-
 Al.Aan.TV.sa
 Al.Dafrah.TV.sa
 Alfa.Al.Yawm.sa

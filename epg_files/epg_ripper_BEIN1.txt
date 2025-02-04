@@ -1,5 +1,3 @@
--- epg_ripper_BEIN1 --
-
 2023_Alkass_1_EN.bein
 2023_Alkass_2_EN.bein
 2023_Alkass_3_EN.bein

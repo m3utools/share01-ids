@@ -1,5 +1,3 @@
--- epg_ripper_ID1 --
-
 ABC.Australia.id
 AFRICANEWS.TV.id
 AJWA.TV.id

@@ -1,5 +1,3 @@
--- epg_ripper_PH2 --
-
 a2z.Channel.11.ph
 A2z.ph
 Abc.Australia.ph

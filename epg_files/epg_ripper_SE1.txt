@@ -1,5 +1,3 @@
--- epg_ripper_SE1 --
-
 3sat.se
 6&apos;eren.se
 Al.Jazeera.eng.se

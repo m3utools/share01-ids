@@ -1,4 +1,2 @@
--- epg_ripper_SSPORTPLUS1 --
-
 S.Sport.2.tr
 S.Sport.tr

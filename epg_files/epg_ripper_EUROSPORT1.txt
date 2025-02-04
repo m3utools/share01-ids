@@ -1,5 +1,3 @@
--- epg_ripper_EUROSPORT1 --
-
 BRITISH.EUROSPORT.HD.eurosport
 EUROSPORT.1.BELGIUM.eurosport
 EUROSPORT.1.BRITISH.eurosport

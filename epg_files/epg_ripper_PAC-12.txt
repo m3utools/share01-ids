@@ -1,5 +1,3 @@
--- epg_ripper_PAC-12 --
-
 Pac-12.Arizona.HD.us
 Pac-12.Bay.Area.HD.us
 Pac-12.Bay.Area.us

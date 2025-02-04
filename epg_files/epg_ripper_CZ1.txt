@@ -1,5 +1,3 @@
--- epg_ripper_CZ1 --
-
 360TuneBox.cz
 A11.cz
 AMC.cz

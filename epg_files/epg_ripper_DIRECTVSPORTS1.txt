@@ -1,5 +1,3 @@
--- epg_ripper_DIRECTVSPORTS1 --
-
 DSPORTS.2.HD.dtvsp
 DSPORTS.(ARG).dtvsp
 DSPORTS.+.HD.dtvsp

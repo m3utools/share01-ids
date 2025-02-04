@@ -1,5 +1,3 @@
--- epg_ripper_RAKUTEN_DE1 --
-
 DE:.Actionfilme.-.Rakuten.TV.de
 DE:.Africanews.English.de
 DE:.AFV.Family.de

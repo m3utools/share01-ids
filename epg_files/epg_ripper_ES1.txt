@@ -1,5 +1,3 @@
--- epg_ripper_ES1 --
-
 24.Horas.es
 Al.Jazeera.English.es
 Alquiler.1.es

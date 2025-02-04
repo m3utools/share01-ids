@@ -1,5 +1,3 @@
--- epg_ripper_BR1 --
-
 A.and.E.HD.br
 Adult.Swim.br
 Agro+.br

@@ -1,5 +1,3 @@
--- epg_ripper_NL1 --
-
 192TV.nl
 24Kitchen.nl
 3Sat.nl

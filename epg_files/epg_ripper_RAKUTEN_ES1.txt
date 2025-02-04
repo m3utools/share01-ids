@@ -1,5 +1,3 @@
--- epg_ripper_RAKUTEN_ES1 --
-
 CGTN.es
 ES:.Adventure.Sports.TV.es
 ES:.Africanews.English.es

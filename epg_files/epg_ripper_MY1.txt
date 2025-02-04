@@ -1,5 +1,3 @@
--- epg_ripper_MY1 --
-
 8TV.my
 ABC.Australia.HD.my
 ABO.Movies.Thangathirai.HD.my

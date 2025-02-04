@@ -1,5 +1,3 @@
--- epg_ripper_IN4 --
-
 10.TV.in
 24.GHANTA.in
 7S.MUSIC.in

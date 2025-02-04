@@ -1,5 +1,3 @@
--- epg_ripper_FANDUEL1 --
-
 Fanduel.Racing.us
 FanDuel.Sports.Indiana.us
 FanDuel.Sports.Midwest.-.Kansas.City.us

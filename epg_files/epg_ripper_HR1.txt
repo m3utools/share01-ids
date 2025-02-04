@@ -1,5 +1,3 @@
--- epg_ripper_HR1 --
-
 24Kitchen.sv
 3sat.sv
 Adult.Channel.sv

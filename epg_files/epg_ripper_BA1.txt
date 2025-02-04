@@ -1,5 +1,3 @@
--- epg_ripper_BA1 --
-
 24Kitchen.HD.(INT).ba
 Alfa.(Sarajevo).ba
 Al.Jazeera.Balkans.HD.ba

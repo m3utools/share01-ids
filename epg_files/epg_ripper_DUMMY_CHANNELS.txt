@@ -1,5 +1,3 @@
--- epg_ripper_DUMMY_CHANNELS --
-
 
 24.7.Dummy.us
 Adult.Programming.Dummy.us

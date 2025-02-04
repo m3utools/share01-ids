@@ -1,5 +1,3 @@
--- epg_ripper_CO1 --
-
 A&amp;E.co
 AdultSwim.co
 AMC.co

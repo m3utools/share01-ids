@@ -1,6 +1,4 @@
 
-EPGs are here: https://epgshare01.online/epgshare01/
-
 Support is here: https://support.epgshare01.online/view_all_bug_page.php
 
 .pdf & .txt files contain EPG IDs for the .xml.gz file of the same name.

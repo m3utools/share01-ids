@@ -1,5 +1,3 @@
--- epg_ripper_SV1 --
-
 Canal.11.de.Costa.Rica.sv
 Canal.11.de.Guatemala.sv
 Canal.11.de.México.sv

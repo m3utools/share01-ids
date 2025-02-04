@@ -1,5 +1,3 @@
--- epg_ripper_TENNIS1 --
-
 Pickle.Ball.2.tennis
 Pickle.Ball.tennis
 Tennis.Cup.tennis

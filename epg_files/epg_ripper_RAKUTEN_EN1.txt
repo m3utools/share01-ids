@@ -1,5 +1,3 @@
--- epg_ripper_RAKUTEN_EN1 --
-
 UK:.21.Jump.Street.en
 UK:.Action.Movies.-.Rakuten.TV.en
 UK:.Adventure.Earth.en

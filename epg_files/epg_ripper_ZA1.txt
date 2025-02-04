@@ -1,5 +1,3 @@
--- epg_ripper_ZA1 --
-
 1.KZN.za
 1.Magic.HD.za
 ACTION.za

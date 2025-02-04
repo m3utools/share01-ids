@@ -1,5 +1,3 @@
--- epg_ripper_PLEX1 --
-
 plex.tv.123GO!.plex
 plex.tv.21.Jump.Street.plex
 plex.tv.24.Hour.Free.Movies.plex

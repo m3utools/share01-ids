@@ -1,5 +1,3 @@
--- epg_ripper_CA1 --
-
 3ABN.Canada.Network.ca
 Aaj.Tak.ca
 A.and.E.Canada.ca

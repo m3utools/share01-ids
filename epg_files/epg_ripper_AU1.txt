@@ -1,5 +1,3 @@
--- epg_ripper_AU1 --
-
 10Adelaide.au
 10BoldAdelaide.au
 10BoldBrisbane.au

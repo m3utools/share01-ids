@@ -1,5 +1,3 @@
--- epg_ripper_IT1 --
-
 20.it
 27.Twentyseven.it
 ACI.Sport.Tv.it

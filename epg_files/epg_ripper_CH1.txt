@@ -1,5 +1,3 @@
--- epg_ripper_CH1 --
-
 13eme.Rue.ch
 13th.Street.ch
 20.Mediaset.ch

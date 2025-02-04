@@ -1,5 +1,3 @@
--- epg_ripper_EC1 --
-
 Canal.A&amp;E.(Ecuador).ec
 Canal.AMC.(Ecuador).ec
 Canal.Animal.Planet.(Ecuador).ec

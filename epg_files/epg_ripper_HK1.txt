@@ -1,5 +1,3 @@
--- epg_ripper_HK1 --
-
 English.-.ABC.Australia.hk
 English.-.Al.Jazeera.English.hk
 English.-.Animal.Planet.hk

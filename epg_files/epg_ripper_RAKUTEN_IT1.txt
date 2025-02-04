@@ -1,5 +1,3 @@
--- epg_ripper_RAKUTEN_IT1 --
-
 IT:.Africanews.English.it
 IT:.AFV.Family.it
 IT:.Andromeda.it

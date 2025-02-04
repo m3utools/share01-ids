@@ -1,5 +1,3 @@
--- epg_ripper_AR1 --
-
 Canal.13.de.Argentina.(El.Trece).ar
 Canal.1.(Colombia).ar
 Canal.24.Horas.(TVE).ar

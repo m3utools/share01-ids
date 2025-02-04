@@ -1,5 +1,3 @@
--- epg_ripper_KE1 --
-
 ABOL.TV.ke
 Africa.Magic.Epic.ke
 Africa.Magic.Family.ke

@@ -1,5 +1,3 @@
--- epg_ripper_US1 --
-
 3ABN.Dare.to.Dream.Network.us
 3ABN.International.Network.us
 3ABN.Kids.Network.us

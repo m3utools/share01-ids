@@ -1,5 +1,3 @@
--- epg_ripper_NG1 --
-
 1.Magic.ng
 Africa.Magic.Epic.ng
 Africa.Magic.Family.ng

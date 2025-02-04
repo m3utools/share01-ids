@@ -1,5 +1,3 @@
--- epg_ripper_BG1 --
-
 24.Kitchen.bg
 7/8.TV.bg
 Animal.Planet.bg

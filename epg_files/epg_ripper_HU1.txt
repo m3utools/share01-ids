@@ -1,5 +1,3 @@
--- epg_ripper_HU1 --
-
 360TuneBox.hu
 3Sat.hu
 Al.Jazeera.hu

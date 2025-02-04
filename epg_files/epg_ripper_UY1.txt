@@ -1,5 +1,3 @@
--- epg_ripper_UY1 --
-
 1000XHora.TV.uy
 26.TV.uy
 A24.uy

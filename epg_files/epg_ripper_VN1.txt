@@ -1,5 +1,3 @@
--- epg_ripper_VN1 --
-
 AFC.vn
 Asian.Food.Network.HD.vn
 AXN.vn
