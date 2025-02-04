@@ -1,6 +1,3 @@
-Howdy!
-
-Main page is here: https://epgshare01.online/
 
 EPGs are here: https://epgshare01.online/epgshare01/
 

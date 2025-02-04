@@ -1,6 +1,3 @@
-202502031732
-
-
 -- epg_ripper_CL1 --
 
 Canal.13.de.Chile.cl

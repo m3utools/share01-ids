@@ -1,6 +1,3 @@
-202502031733
-
-
 -- epg_ripper_DO1 --
 
 Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk

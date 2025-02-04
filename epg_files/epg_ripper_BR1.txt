@@ -1,6 +1,3 @@
-202502031732
-
-
 -- epg_ripper_BR1 --
 
 A.and.E.HD.br

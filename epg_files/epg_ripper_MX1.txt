@@ -1,6 +1,3 @@
-202502031733
-
-
 -- epg_ripper_MX1 --
 
 Azteca.(XHOR).mx

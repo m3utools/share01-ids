@@ -1,6 +1,3 @@
-202502031733
-
-
 -- epg_ripper_OPTUSSPORTS1 --
 
 Optus.Sport.10.au

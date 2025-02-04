@@ -1,6 +1,3 @@
-202407100912
-
-
 -- epg_ripper_PAC-12 --
 
 Pac-12.Arizona.HD.us

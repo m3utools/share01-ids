@@ -1,6 +1,3 @@
-202407270912
-
-
 -- epg_ripper_SA2 --
 
 en##Al.Aan.TV.sa

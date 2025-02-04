@@ -1,6 +1,3 @@
-202502031733
-
-
 -- epg_ripper_NO1 --
 
 6'eren.Denmark.(DK,DA).no
