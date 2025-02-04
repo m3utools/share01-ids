@@ -1,0 +1,13 @@
+202502031734
+
+
+-- epg_ripper_PK1 --
+
+AJK.TV.pk
+Bolan.pk
+PTV.Global.pk
+PTV.Home.pk
+PTV.National.pk
+PTV.News.pk
+PTV.Sports.pk
+PTV.World.pk

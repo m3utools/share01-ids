@@ -1,0 +1,17 @@
+202502031733
+
+
+-- epg_ripper_OPTUSSPORTS1 --
+
+Optus.Sport.10.au
+Optus.Sport.11.au
+Optus.Sport.12.au
+Optus.Sport.1.au
+Optus.Sport.2.au
+Optus.Sport.3.au
+Optus.Sport.4.au
+Optus.Sport.5.au
+Optus.Sport.6.au
+Optus.Sport.7.au
+Optus.Sport.8.au
+Optus.Sport.9.au

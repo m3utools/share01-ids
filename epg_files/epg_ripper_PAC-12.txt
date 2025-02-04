@@ -1,0 +1,17 @@
+202407100912
+
+
+-- epg_ripper_PAC-12 --
+
+Pac-12.Arizona.HD.us
+Pac-12.Bay.Area.HD.us
+Pac-12.Bay.Area.us
+Pac-12.LA.us
+Pac-12.Mountain.HD.us
+Pac-12.Mountain.us
+Pac-12.Network.HD.us
+Pac-12.Network.us
+Pac-12.Oregon.HD.us
+Pac-12.Oregon.us
+Pac-12.Washington.HD.us
+Pac-12.Washington.us

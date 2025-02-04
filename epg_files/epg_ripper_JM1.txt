@@ -1,0 +1,25 @@
+202502031733
+
+
+-- epg_ripper_JM1 --
+
+BET.Caribbean.jm
+Cala.Action.jm
+Cala.Classics.jm
+Cala.Weather.jm
+Cala.Westerns.jm
+Caribbean.Traveling.Network.(CTN).jm
+Caribvision.jm
+CCN.TV6.jm
+CEEN.jm
+CGTV.jm
+ESPN2.Caribbean.jm
+ESPN.Caribbean.jm
+FEVA.jm
+Flow.Sports.jm
+One.Caribbean.Television.jm
+PBC.Jamaica.jm
+SPORTSMAX2.jm
+SPORTSMAX.jm
+Television.Jamaica.jm
+TTT.jm
