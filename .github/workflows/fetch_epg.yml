@@ -19,7 +19,7 @@ jobs:
           cd epg_files
           curl -sSL https://epgshare01.online/epgshare01/ | grep -oP '(?<=href=")[^"]+\.txt' | while read -r file; do
             curl -O "https://epgshare01.online/epgshare01/$file"
-            tail -n +4 "$file" > "tmp_$file" && mv "tmp_$file" "$file"
+            tail -n +6 "$file" > "tmp_$file" && mv "tmp_$file" "$file"
           done
 
       - name: Commit and push changes
