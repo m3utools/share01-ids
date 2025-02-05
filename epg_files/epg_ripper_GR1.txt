@@ -5,6 +5,8 @@ Al.Jazeera.gr
 ALPHA.gr
 Animal.Planet.gr
 ANT1.gr
+Antenna.Comedy.gr
+Antenna.Drama.gr
 Asharq.News.gr
 ATTICA.TV.gr
 Baby.TV.gr
@@ -53,6 +55,7 @@ Euronews.Greek.gr
 Eurosport.1.HD.gr
 Eurosport.2.HD.gr
 Food.Network.HD.gr
+Formula.1.gr
 FOX.HD.gr
 FoxLife.HD.gr
 France.24.En.gr
@@ -63,10 +66,12 @@ GINX.eSports.gr
 HIGH.TV.gr
 InPlus.gr
 Investigation.Discovery.HD.gr
+JUST.TV.gr
 Kontra.gr
 Luxe.TV.HD.gr
 MAD.HD.gr
 MAD.Viral.HD.gr
+MAKTV.gr
 MEGA.HD.gr
 MEZZO.LIVE.HD.gr
 Motorvision+.gr
