@@ -269,6 +269,7 @@ Global.(CIII-DT-41).Toronto.ca
 Global.(CIII-DT-41).Toronto.HD.ca
 Global.Edmonton.(CITV).ca
 Global.Maritimes.(CIHF).ca
+Global.Montreal.(CKMI).ca
 GMA.Life.TV.ca
 GMA.News.ca
 GMA/Pinoy.TV.ca

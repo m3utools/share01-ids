@@ -101,6 +101,7 @@ HBO.2.cz
 HBO.3.cz
 HBO.cz
 HGTV.cz
+History2.cz
 History.Channel.cz
 Hobby.TV.cz
 iConcerts.cz
@@ -188,12 +189,15 @@ PREMIER_SPORT_4_CZ.cz
 PREMIER_SPORT_4_SK.cz
 Premium.cz
 Prima.COOL.cz
+Prima.COOL.SK.cz
 Prima.cz
 Prima.Krimi.cz
 Prima.Love.cz
+Prima.LOVE.SK.cz
 Prima.Max.cz
 PRIMA.PLUS.cz
 Prima.Show.cz
+Prima.SK.cz
 Prima.Star.cz
 Prima.Zoom.cz
 Reality.Kings.cz
