@@ -1976,6 +1976,7 @@ Kentucky.Channel.(WKPI-DT3).Pikeville,.KY.us
 Kentucky.Channel.(WKSO-DT3).Somerset,.KY.us
 Kentucky.Channel.(WKZT-DT3).Elizabethtown,.KY.us
 KETX-Livingston,.TX.us
+KFAA-29.Decatur,.TX.us
 KGEB.Tulsa,.OK.us
 KHFD-LD3.Dallas,.TX.us
 KHFD-LD5.Dallas,.TX.us
