@@ -13,6 +13,7 @@ Adult.Swim.-.East.HD.ca
 Adult.Value.On.Demand.4.ca
 Al.Jazeera.English.ca
 Al.Nahar.Canada.ca
+[ALPHATV].Alpha.TV.ca
 AMC.-.Canada.ca
 AMC.-.Canada.HD.ca
 American.Heroes.Channel.ca
@@ -225,6 +226,7 @@ E!.Canada.ca
 E!.Canada.HD.ca
 ELLE.Fictions.ca
 Emergency.Alerting.Service.ca
+[ERTSAT].ERT.World.ca
 ESPN.Classic.Canada.ca
 EuroNews.ca
 Evasion.ca
@@ -275,6 +277,7 @@ GMA.News.ca
 GMA/Pinoy.TV.ca
 Golf.Channel.Canada.ca
 Golf.Channel.Canada.HD.ca
+[GRKCINE].Greek.Cinema.ca
 Halla.Bol!.ca
 HBO1.ca
 HBO1.HD.ca
@@ -317,6 +320,7 @@ Magnolia.Network.Canada.ca
 Makeful.ca
 MAX.ca
 Mediaset.Italia.ca
+[MEGACO].Mega.Cosmos.ca
 Mega.Cosmos.ca
 Melody.Aflam.ca
 Melody.Drama.ca
@@ -355,6 +359,7 @@ Noovo.(CFJP).Montreal,.QC.ca
 Noovo.Gatineau.HDTV.(NVGA).ca
 Noovo.Rivière-du-Loup.HD.(NVRL).ca
 NTV.Bangla.ca
+[ODSYC].Odyssey.Greek.TV.ca
 Odyssey.ca
 OMNI.1.HD.ca
 OMNI.1.Television.ca
@@ -430,8 +435,10 @@ Sportsnet.(West).-.Satellite/Digital.ca
 Sportsnet.(West).-.Satellite/Digital.HD.ca
 Sportsnet.World.ca
 Sportsnet.World.HD.ca
+[SPRTPL].SportPlus.ca
 SSTV.(South-Asian.Punjabi).ca
 Star.Bharat.ca
+[STARBL].Star.ca
 STARZ1.-.East.ca
 STARZ1.-.East.HD.ca
 Starz1.onDemand.ca

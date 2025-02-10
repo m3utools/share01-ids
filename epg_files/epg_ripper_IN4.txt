@@ -29,7 +29,6 @@ ADITHYA.TV.in
 ALANKAR.in
 ALJAZEERA.in
 ALL.TIME.MOVIES.in
-&amp;xplorHD.in
 AMRITA.in
 and.Flix.HD.in
 and.flix.in
@@ -38,6 +37,7 @@ and.PICTURES.in
 and.PRIVE.HD.in
 and.TV.HD.in
 and.TV.in
+and.xplorHD.in
 ANIMAL.PLANET.HD.WORLD.in
 ANIMAL.PLANET.in
 ARADANA.in
@@ -59,7 +59,6 @@ B4U.MUSIC.in
 BALLE.BALLE.in
 BBC.World.News.in
 BEST.RECHARGE.OFFER.in
-BFLIX.in
 BHAKTI.ACTIVE.in
 BHAKTI.TV.in
 BHARAT.24.in
@@ -113,13 +112,6 @@ COMEDY.CENTRAL.in
 COOKING.ACTIVE.in
 CTVN-AKD-Plus.in
 CUSTOMER.CARE.in
-d2h.Offers.Duplicate1.in
-d2h.Offers.Duplicate2.in
-d2h.Offers.Duplicate3.in
-d2h.Offers.Duplicate4.in
-d2h.Offers.Duplicate5.in
-d2h.Offers.Duplicate6.in
-d2h.Offers.in
 D2H.Update.in
 DAILY.POST.in
 Dangal.2.in
@@ -171,14 +163,6 @@ DISH.BUZZ.HD.Duplicate1.in
 DISH.BUZZ.HD.Duplicate.in
 DISH.BUZZ.HD.in
 DISH.BUZZ.in
-DishTV.Offers.Duplicate1.in
-DishTV.Offers.Duplicate2.in
-DishTV.Offers.Duplicate3.in
-DishTV.Offers.Duplicate4.in
-DishTV.Offers.Duplicate5.in
-DishTV.Offers.Duplicate6.in
-DishTV.Offers.in
-DISH.TV.SUN.MARATHI.in
 DISNEY.CHANNEL.HD.in
 DISNEY.CHANNEL.in
 DISNEY.INTL.HD.in
@@ -247,7 +231,6 @@ India.News.Haryana.in
 India.News.in
 INDIA.TODAY.in
 INDIA.TV.in
-Indradhanu.in
 Investigation.Discovery.in
 ISAI.ARUVI.in
 Ishara.TV.in
@@ -264,7 +247,6 @@ JINVANI.TV.in
 JK.24X7.NEWS.in
 J.MOVIE.in
 JONACK.in
-JOTHI.TV.in
 KAIRALI.in
 KAIRALI.NEWS.in
 KALAIGNAR.CHITHIRAM.in
@@ -288,6 +270,7 @@ LOKSHAHI.in
 MADHA.TV.in
 MAIBOLI.in
 MALAI.MURASU.SEITHIKAL.in
+MALAMAAL.REWARD.in
 MANORAMA.NEWS.in
 Manoranjan.Grand.in
 Manoranjan.Movies.in
@@ -316,7 +299,6 @@ MTV.BEATS.HD.in
 MTV.BEATS.in
 MTV.in
 MURASU.in
-Music.Active.in
 MUSIC.INDIA.in
 NAMBIKKKAI.in
 Nandighosha.TV.in
@@ -388,7 +370,6 @@ PTC.Simran.in
 PUBLIC.MOVIES.in
 PUBLIC.MUSIC.in
 PUBLIC.TV.in
-PUNJABI.HITS.in
 PUTHIYA.THALAIMURAI.in
 PUTHU.YUGAM.in
 RAJ.DIGITAL.PLUS.in
@@ -427,6 +408,7 @@ SALAAM.TV.in
 Sandesh.News.in
 SANGEET.BANGLA.in
 SANGEET.BHOJPURI.in
+SANSAD.TV.1.HD.in
 SANSAD.TV.1.in
 SANSAD.TV.2.DUPLICATE.in
 SANSAD.TV.2.HD.in
@@ -447,9 +429,9 @@ Showbox.in
 SHRADDHA.MH1.in
 SHUBHAVAARTHA.in
 SHUBH.TV.in
-SIDHARTH.BHAKTI.in
 SIDHARTH.GOLD.in
 SIDHARTH.TV.in
+SIDHARTH.UTSAV.in
 SIRI.KANNADA-ALL.TIME.in
 SIRIPOLI.in
 SONGDEW.in
@@ -595,7 +577,6 @@ VIJAY.SUPER.in
 VIJAY.TAKKAR.in
 VIJAY.TV.in
 VISSA.TV.in
-VISTARA.NEWS.in
 VTV.NEWS.in
 WE.TV.in
 WION.in
@@ -639,8 +620,9 @@ ZEE.MARATHI.HD.in
 ZEE.MARATHI.in
 Zee.Marathi.USA.in
 ZEE.MP.CHATTISGARH.in
-ZEE.NEWS.+.in
 Zee.News.in
+ZEE.NEWS.in
+ZEE.NEWS.PLUS.in
 Zee.News.Uttar.Pradesh.Uttrakhand.in
 Zee.Picchar.in
 ZEE.PUNJAB.HARYANA.HIMACHAL.in
