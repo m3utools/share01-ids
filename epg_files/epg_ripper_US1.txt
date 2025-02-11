@@ -92,6 +92,7 @@ Cinemax.-.Eastern.HD.us
 Cinemax.on.Demand.us
 Cinemax.-.Pacific.Feed.us
 Cine.Mexicano.us
+Circle.Country.us
 CMT.US.-.Eastern.Feed.us
 CMT.US.On.Demand.us
 CNBC.USA.us
@@ -462,6 +463,7 @@ Playboy.On.Demand.us
 Playboy.TV.en.espanol.us
 Playboy.us
 POP.-.East.us
+portsNet.Pittsburgh+.us
 Posi.TV.(POSITIVE.TV).us
 Prime.TNF.us
 Pursuit.Channel.us
@@ -519,6 +521,7 @@ Spectrum.Sportsnet.Dodgers.us
 Spectrum.Sportsnet.Lakers.us
 Spectrum.SportsNet.us
 Sportsman.Channel.us
+SportsNet.Pittsburgh+.us
 SportsNet.Pittsburgh.us
 Stadium.College.Sports.-.Atlantic.us
 Stadium.College.Sports.-.Central.us
