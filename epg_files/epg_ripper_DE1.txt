@@ -191,7 +191,6 @@ Sky.Sport.Austria.5.HD.de
 Sky.Sport.Austria.6.HD.de
 Sky.Sport.Austria.7.HD.de
 Sky.Sport.Austria.8.HD.de
-Sky.Sport.Austria.de
 Sky.Sport.Bundesliga.10.de
 Sky.Sport.Bundesliga.1.de
 Sky.Sport.Bundesliga.2.de

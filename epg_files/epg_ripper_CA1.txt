@@ -253,7 +253,7 @@ Food.Network.CA.ca
 Fox.News.ca
 Fox.Sports.Racing.ca
 FPTV.(Festival.Portuguese.TV).ca
-Frissons.TV.ca
+Frissons.TV.HDTV.ca
 Future.TV.International.ca
 FX.Networks.Canada.ca
 FX.Networks.Canada.HD.ca
