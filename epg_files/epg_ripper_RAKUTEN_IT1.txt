@@ -11,7 +11,7 @@ IT:.Brindiamo!.it
 IT:.Car.City.Adventures.it
 IT:.CGTN.Documentary.it
 IT:.CGTN.it
-IT:.Cinema.Italiano.it
+IT:.Cinema.Poliziottesco.it
 IT:.CineWestern.it
 IT:.CLUBBING.TV.it
 IT:.Commedia.-.Rakuten.TV.it
@@ -29,6 +29,7 @@ IT:.FIFA+.it
 IT:.Film.Asiatici.-.Rakuten.TV.it
 IT:.FilmRise.Sci-Fi.it
 IT:.Film.Top.-.Rakuten.TV.it
+IT:.Forensic.Files.it
 IT:.France.24.FAST.English.it
 IT:.FUEL.TV.it
 IT:.GLORY.Kickboxing.it
@@ -55,6 +56,7 @@ IT:.Qwest.TV.it
 IT:.Radio.Italia.Trend.it
 IT:.Rakuten.VIKI.it
 IT:.Red.Bull.TV.it
+IT:.Relic.Hunter.it
 IT:.Reuters.it
 IT:.Revry.it
 IT:.Revry.News.it

@@ -15,6 +15,7 @@ ES:.Cine.Western.es
 ES:.CLUBBING.TV.es
 ES:.Comedia.-.Rakuten.TV.es
 ES:.Cops.En.Español.es
+ES:.Crímenes.Reales.es
 ES:.Crimen.-.Rakuten.TV.es
 ES:.Dark.Matter.-.Horror.Visión.es
 ES:.Deluxe.Lounge.HD.es

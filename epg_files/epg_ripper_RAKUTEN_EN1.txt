@@ -3,8 +3,8 @@ UK:.Action.Movies.-.Rakuten.TV.en
 UK:.Adventure.Earth.en
 UK:.Africanews.English.en
 UK:.AFV.Family.en
+UK:.&amp;TV.en
 UK:.Andromeda.en
-UK:.Autopsy.en
 UK:.Ax.Men.en
 UK:.Baby.Shark.TV.en
 UK:.Baywatch.en
@@ -95,6 +95,7 @@ UK:.Nitro.Circus.en
 UK:.NOW.70s.en
 UK:.NOW.80s.en
 UK:.NOW.Rock.en
+UK:.NTD.TV.en
 UK:.People.Are.Awesome.en
 UK:.PFL.MMA.en
 UK:.Pointless.en
@@ -141,6 +142,7 @@ UK:.Trace.Urban.en
 UK:.Trailers.en
 UK:.Travelxp.en
 UK:.True.Crime.Now.en
+UK:.True.Lives.en
 UK:.Unsolved.Mysteries.en
 UK:.Untold.Stories.Of.The.ER.en
 UK:.Vevo.Hip-Hop.&amp;.R&amp;B.en
@@ -156,4 +158,3 @@ UK:.World`s.Wildest.Police.Videos.en
 UK:.World.War.TV.en
 UK:.Yu-Gi-Oh!.en
 UK:.Zee.One.en
-UK:.Zee.Sports.en
