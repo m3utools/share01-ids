@@ -216,7 +216,6 @@ NHL-AnaheimDucks.us
 NHL-BostonBruins.us
 NHL-BuffaloSabres.us
 NHL-CalgaryFlames.us
-NHL-Canada.us
 NHL-CarolinaHurricanes.us
 NHL-ChicagoBlackhawks.us
 NHL-ColoradoAvalanche.us
@@ -224,7 +223,6 @@ NHL-ColumbusBlueJackets.us
 NHL-DallasStars.us
 NHL-DetroitRedWings.us
 NHL-EdmontonOilers.us
-NHL-Finland.us
 NHL-FloridaPanthers.us
 NHL-LosAngelesKings.us
 NHL-MinnesotaWild.us
@@ -239,10 +237,8 @@ NHL-PittsburghPenguins.us
 NHL-SanJoseSharks.us
 NHL-SeattleKraken.us
 NHL-St.LouisBlues.us
-NHL-Sweden.us
 NHL-TampaBayLightning.us
 NHL-TorontoMapleLeafs.us
-NHL-USA.us
 NHL-UtahHockeyClub.us
 NHL-VancouverCanucks.us
 NHL-VegasGoldenKnights.us
