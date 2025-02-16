@@ -118,7 +118,7 @@ JOJ.cz
 JOJ.Family.cz
 JOJKO.cz
 JOJ.Plus.cz
-JOJ.ŠPORT.2.cz
+JOJ.Šport.2.cz
 JOJ.ŠPORT.cz
 JOJ_SVET.cz
 Kino.Barrandov.cz
