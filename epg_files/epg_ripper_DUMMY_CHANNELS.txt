@@ -1,4 +1,5 @@
 
+
 24.7.Dummy.us
 Adult.Programming.Dummy.us
 Amazon.Programming.Dummy.us
@@ -20,6 +21,7 @@ Christmas.Music.Dummy.us
 Christmas.Radio.Dummy.us
 Cinebox.Dummy.us
 Cricket.Dummy.us
+Curiosity.Stream.Dummy.us
 Darts.Dummy.us
 DAZN.Dummy.us
 Discovery+.Disney+.us
@@ -31,7 +33,6 @@ Fishtank.Live.Dummy.us
 FITE.TV.Dummy.us
 Flo.Events.Dummy.us
 Football.Dummy.us
-Fox.Live.Now.Dummy.us
 GaaGo.TV.Dummy.us
 Golf.Dummy.us
 Grande.Fratello.Party.Dummy.us
