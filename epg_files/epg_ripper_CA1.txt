@@ -624,6 +624,7 @@ WildBrainTV.HD.ca
 WildBrainTV.On.Demand.ca
 Wild.TV.ca
 Wild.TV.HD.ca
+W.Network.Canada.East.(WTN).ca
 WPIX.New.York.(SUPERSTATION).ca
 WPIX.New.York.(SUPERSTATION).HD.ca
 WWE.Network.HD.(Canada).ca
