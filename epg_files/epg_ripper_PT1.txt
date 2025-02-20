@@ -63,6 +63,7 @@ FTV.HD.pt
 Fuel.TV.HD.pt
 Globo.HD.pt
 Globo.News.pt
+HGTV.pt
 Horse.TV.pt
 ID.Investigation.Discovery.pt
 KBS.World.HD.pt
@@ -117,6 +118,7 @@ SIC.Internacional.pt
 SIC.K.HD.pt
 SIC.Mulher.HD.pt
 SIC.Notícias.HD.pt
+SIC.Novelas.pt
 SIC.Radical.HD.pt
 Sky.News.pt
 Sporting.TV.HD.pt
@@ -162,6 +164,7 @@ TVI.Internacional.pt
 TVI.Reality.HD.pt
 tvi.reality.pt
 TVR.Internacional.pt
+TV.Zimbo.pt
 Unifé.TV.pt
 V+TVI.pt
 W-Sport.pt
