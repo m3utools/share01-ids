@@ -467,6 +467,7 @@ POP.-.East.us
 portsNet.Pittsburgh+.us
 Posi.TV.(POSITIVE.TV).us
 Prime.TNF.us
+Pure.Flix.TV.us
 Pursuit.Channel.us
 QVC2.us
 QVC3.us
@@ -518,6 +519,7 @@ Sony.KAL.us
 Sony.Movies.us
 So.Yummy.us
 Space.City.Home.Network.us
+Spectrum.News.1.Western,.NC.us
 Spectrum.Sportsnet.Dodgers.us
 Spectrum.Sportsnet.Lakers.us
 Spectrum.SportsNet.us
