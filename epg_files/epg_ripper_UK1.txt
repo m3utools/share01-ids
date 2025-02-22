@@ -154,9 +154,6 @@ Eman.Channel.uk
 Euronews.uk
 Eurosport.1.HD.uk
 Eurosport.2.HD.uk
-Eurosport.3.HD.uk
-Eurosport.4.HD.uk
-Eurosport.5.HD.uk
 EWTN.Catholic.uk
 Faith.UK.uk
 Faith.World.TV.uk
