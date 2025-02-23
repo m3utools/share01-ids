@@ -3565,6 +3565,7 @@ Spectrum.News.1.North.Carolina.us
 Spectrum.News.1.Rochester,.NY.us
 Spectrum.News.1.Southern.Tier.us
 Spectrum.News.1.Toledo.Lima,.OH.us
+Spectrum.News.1.Western,.NC.us
 Spectrum.News.1.Worcester,.MA.us
 Spectrum.NY1.News,.NY.us
 Spectrum.OC16.Hawaii.us

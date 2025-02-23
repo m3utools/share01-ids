@@ -359,6 +359,10 @@ MGM+.HDTV.(East).(MGM+HD).us
 MGM.HD.(USA).us
 MGM+.Hits.HDTV.(East).(MGM+HTHD).us
 MGM+.Marquee.HDTV.(East).(MGM+MRQ).us
+MGM.Presents.Action.us
+MGM.Presents.Horror.us
+MGM.Presents.us
+MGM.Presents.Westerns.us
 Mid-Atlantic.Sports.Network.2.us
 Mid-Atlantic.Sports.Network.us
 MLB.Network.HDTV.(DISH).(MLBHD).us
