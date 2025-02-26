@@ -1,4 +1,4 @@
-IT:.Africanews.English.it
+IT:.Africanews.it
 IT:.AFV.Family.it
 IT:.Andromeda.it
 IT:.Autostop.per.il.Cielo.it

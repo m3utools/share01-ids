@@ -1,4 +1,4 @@
-PL:.Africanews.English.pl
+PL:.Africanews.pl
 PL:.AFV.Family.pl
 PL:.American.Crime.Channel.pl
 PL:.Baby.Shark.TV.pl

@@ -1,5 +1,5 @@
 FR:.100%.Docs.fr
-FR:.Africanews.Français.fr
+FR:.Africanews.fr
 FR:.AFV.Family.fr
 FR:.Alerte.à.Malibu.TV.fr
 FR:.Alerte.Cobra.-.Rakuten.TV.fr
@@ -67,6 +67,8 @@ FR:.NewsWorld.fr
 FR:.NOW.70s.fr
 FR:.NOW.80s.fr
 FR:.NOW.Rock.fr
+FR:.Passion.Bollywood.fr
+FR:.Passion.Novelas.fr
 FR:.People.Are.Awesome.fr
 FR:.PFL.MMA.fr
 FR:.Qello.Concerts.by.Stingray.fr

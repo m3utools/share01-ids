@@ -31,6 +31,7 @@ BBC.First.hr
 BBC.News.hr
 Bloomberg.Adria.hr
 BNT4.hr
+bravo!.KIDS.hr
 bravo!.TV.HD.hr
 Brazzers.TV.Europe.hr
 Cartoonito.hr
@@ -89,7 +90,7 @@ Gametoon.HD.hr
 Good.Times.hr
 GP1.HD.hr
 Happy.TV.hr
-Hayat.PLUS.hr
+Hayat.2.hr
 HBO.2.HD.hr
 HBO.3.HD.hr
 HBO.HD.hr
@@ -103,7 +104,6 @@ Hustler.HD.hr
 Hustler.TV.hr
 ICTbusiness.TV.hr
 Jeka.hr
-Jim.Jam.hr
 Jugoton.hr
 Kanal.mjeseca.hr
 KanalRi.hr

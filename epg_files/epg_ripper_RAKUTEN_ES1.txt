@@ -1,4 +1,4 @@
-ES:.Africanews.English.es
+ES:.Africanews.es
 ES:.AFV.Family.es
 ES:.Archivos.Forenses.es
 ES:.Baby.Shark.TV.es
