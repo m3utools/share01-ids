@@ -1,5 +1,6 @@
 
 
+
 24.7.Dummy.us
 Adult.Programming.Dummy.us
 Amazon.Programming.Dummy.us
@@ -21,7 +22,6 @@ Christmas.Music.Dummy.us
 Christmas.Radio.Dummy.us
 Cinebox.Dummy.us
 Cricket.Dummy.us
-Curiosity.Stream.Dummy.us
 Darts.Dummy.us
 DAZN.Dummy.us
 Discovery+.Disney+.us
@@ -109,3 +109,4 @@ WEATHER.dummy.us
 WNBA.dummy.us
 World.Soccer.Dummy.us
 X-Games.Dummy.us
+XITE.80s.Dummy.us
