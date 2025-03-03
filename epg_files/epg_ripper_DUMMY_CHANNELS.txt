@@ -1,6 +1,7 @@
 
 
 
+
 24.7.Dummy.us
 Adult.Programming.Dummy.us
 Amazon.Programming.Dummy.us
@@ -57,6 +58,7 @@ MLS.Soccer.Dummy.us
 Monday.Night.Football.Dummy.us
 MorbidoTV.Dummy.us
 Movie.Dummy.us
+Music.Choice.Dummy.us
 Music.Dummy.us
 National.League.Dummy.us
 NBA.Basketball.Dummy.us
@@ -109,4 +111,3 @@ WEATHER.dummy.us
 WNBA.dummy.us
 World.Soccer.Dummy.us
 X-Games.Dummy.us
-XITE.80s.Dummy.us
