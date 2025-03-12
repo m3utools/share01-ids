@@ -1,3 +1,4 @@
+Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx
 Azteca.(XHOR).mx
 Canal.11.de.México.mx
 Canal.14.de.México.mx
@@ -18,7 +19,6 @@ Canal.Aprende.mx
 Canal.Atreseries.(Internacional).mx
 Canal.AXN.(México).mx
 Canal.AYM.Sports.mx
-Canal.Azteca.7..(México).mx
 Canal.Azteca.Uno.-1.Hora.mx
 Canal.Azteca.Uno.-2.Horas.mx
 Canal.Azteca.Uno.mx
