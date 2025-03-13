@@ -304,6 +304,10 @@ ICI.(CBLFT).Toronto.ca
 ICI.(CBLFT).Toronto.HD.ca
 ICI.Explora.ca
 ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca
+ICI.Tele.(CBFT-DT).Montréal,.QC.ca
+ICI.Tele.(CKTM-DT).Trois-Rivières,.QC.ca
+ICI.Tele.(CKTV-DT).Saguenay,.QC.ca
+ICI.Television.(CFHD-DT).Montréal,.QC.ca
 Investigation.ID.CA.ca
 Jiangsu.International.ca
 JoyTV.ca
@@ -327,6 +331,7 @@ Melody.Drama.ca
 Melody.Hits.ca
 Meteo-Media.ca
 MétéoMédia.in.HDTV.(MM-HD).ca
+Miracle.Channel.ca
 MLB.Network.Canada.ca
 MLB.Network.Canada.HD.ca
 MovieTime.ca
