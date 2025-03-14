@@ -61,6 +61,8 @@ NPO1.be
 NPO2.be
 NPO3.be
 Planète+.be
+Play6.be
+Play7.be
 Play.More.Black.be
 Play.More.Cinema.be
 Play.More.Kicks.be

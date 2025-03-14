@@ -1,3 +1,5 @@
+Adult.Swim.HD.br
+Jovem.Pan.News.br
 São.Paulo/SP..A&amp;E.br
 São.Paulo/SP..A&amp;E.HD.br
 São.Paulo/SP..Agro.Mais.br
@@ -187,6 +189,7 @@ São.Paulo/SP..RAI.International.br
 São.Paulo/SP..Record.br
 São.Paulo/SP..Record.HD.br
 São.Paulo/SP..Record.News..br
+São.Paulo/SP.Record.News.br
 São.Paulo/SP..Rede.21.br
 São.Paulo/SP..Rede.Gospel.br
 São.Paulo/SP..Rede.Gospel.HD.br
