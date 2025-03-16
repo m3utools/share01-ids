@@ -176,7 +176,7 @@ teleSUR.es
 TelevisiónCanaria.es
 Ten.es
 TMV.Valencia.es
-TPA.es
+TPA_7.es
 TV3CAT.es
 TV3.es
 TV5.Monde.es
