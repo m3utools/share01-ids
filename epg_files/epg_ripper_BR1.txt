@@ -1,6 +1,4 @@
 Adult.Swim.HD.br
-Belo.Horizonte/MG..ESPN.2.HD..br
-Belo.Horizonte/MG..HBO.+.br
 Belo.Horizonte/MG..Hbo.Mundi.br
 Belo.Horizonte/MG..Polishop.br
 Belo.Horizonte/MG..Premiere.6.br
@@ -10,8 +8,12 @@ Belo.Horizonte/MG...TV.Aparecida.(espelho).br
 Belo.Horizonte/MG..TV.Pai.Eterno.br
 Campinas/SP..Canal.do.Boi.br
 Campinas/SP..Film&amp;Arts.br
+ESPN.2.br
+ESPN.5.br
 ESPN.6.br
+ESPN.br
 FRANCE.24.HD.br
+HBO+.br
 HBO.br
 Jovem.Pan.News.br
 Rede.Brasil.HD.br
@@ -87,13 +89,9 @@ São.Paulo/SP..DogTV.HD.br
 São.Paulo/SP..DW-TV.br
 São.Paulo/SP..E!..br
 São.Paulo/SP..E!.HD.br
-São.Paulo/SP..ESPN.2.br
 São.Paulo/SP..ESPN.3.HD.br
 São.Paulo/SP..Espn.4.br
 São.Paulo/SP..ESPN.4.HD.br
-São.Paulo/SP..ESPN.5.HD.br
-São.Paulo/SP..ESPN.br
-São.Paulo/SP..ESPN.HD.³.br
 São.Paulo/SP..Eurochannel.HD.br
 São.Paulo/SP..Fashion.TV.HD.br
 São.Paulo/SP..Film&amp;Arts.HD.br
@@ -122,7 +120,6 @@ São.Paulo/SP..HBO.Family.br
 São.Paulo/SP..HBO.Family.HD.³.br
 São.Paulo/SP..HBO.HD.2.³.br
 São.Paulo/SP..HBO.HD.³.br
-São.Paulo/SP..HBO.+.HD.br
 São.Paulo/SP..HBO.MUNDI.HD.br
 São.Paulo/SP..Hbo.Pop.br
 São.Paulo/SP..HBO.POP.HD.br

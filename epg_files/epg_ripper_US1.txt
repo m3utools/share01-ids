@@ -371,6 +371,7 @@ MLB.San.Diego.Padres.us
 Monumental.Sports.Network.2.us
 Monumental.Sports.Network.us
 MoreMax..Eastern.us
+MotorTrend.FAST.TV.us
 Motor.Trend.HD.us
 MovieMax.(Max.6).-.East.us
 MoviePlex.East.(MPLEX).us
