@@ -50,6 +50,13 @@ Cuatro.es
 Cubavisión.Internacional.es
 CyLTV.es
 Dark.es
+DAZN.1.es
+DAZN.2.es
+DAZN.3.es
+DAZN.4.es
+DAZN.F1.es
+DAZN.LALIGA.2.es
+DAZN.LALIGA.es
 Decasa.es
 Deutsche.Welle.es
 Discovery.Channel.es

@@ -63,6 +63,7 @@ Big.Ten.Network.Overflow.4.us
 Big.Ten.Network.us
 Blaze.TV.us
 Bloomberg.TV.USA.us
+Bon.Appétit.TV.us
 Boomerang.On.Demand.us
 Boomerang.us
 Bravo.USA.-.Eastern.Feed.us
