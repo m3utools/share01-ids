@@ -42,7 +42,6 @@ PL:.Qwest.TV.pl
 PL:.Rakuten.VIKI.pl
 PL:.Red.Bull.TV.pl
 PL:.Red.Carpet.TV.International.pl
-PL:.Reuters.pl
 PL:.Revry.News.pl
 PL:.Revry.pl
 PL:.Royalworld.-.Arystokracja.&amp;.Dynastie.pl
@@ -56,6 +55,7 @@ PL:.Tastemade.pl
 PL:.The.Design.Network.pl
 PL:.The.Guardian.pl
 PL:.The.Pet.Collective.pl
+PL:.The.Reuters.60.pl
 PL:.TNA.Wrestling.Channel.pl
 PL:.TOP.Barça.pl
 PL:.Top.Million.Dollar.Agent.pl

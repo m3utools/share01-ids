@@ -566,6 +566,7 @@ TVP.Info.HD.pl
 TVP.Info.pl
 TVP.Kobieta.HD.pl
 TVP.Kobieta.pl
+TVP.Kultura.2.pl
 TVP.Kultura.HD.pl
 TVP.Kultura.pl
 TVP.Nauka.HD.pl

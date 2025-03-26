@@ -16,7 +16,6 @@ DE:.CGTN.de
 DE:.CGTN.Documentary.de
 DE:.CLUBBING.TV.de
 DE:.Comedy.&amp;.Shows.de
-DE:.Craction.TV.de
 DE:.Crime.Serien.-.Rakuten.TV.de
 DE:.Curiosity.Now.de
 DE:.DDR.TV-Archiv.de
@@ -26,7 +25,6 @@ DE:.Deluxe.Lounge.HD.de
 DE:.DesiPlay.TV.de
 DE:.Deutsches.Kino.-.Rakuten.TV.de
 DE:.Drama.Filme.-.Rakuten.TV.de
-DE:.ducktv.de
 DE:.Eat.Club.de
 DE:.Ein.Engel.auf.Erden.de
 DE:.Euronews.LIVE.de
@@ -65,7 +63,7 @@ DE:.Lindenstrasse.de
 DE:.LooLoo.Kids.TV.de
 DE:.MAVTV.International.de
 DE:.Meet,.Marry,.Murder.Tödliche.Ehe.de
-DE:.Merhaba.Turkish.Drama.de
+DE:.Merhaba.Türkische.Serien.de
 DE:.Moconomy.de
 DE:.More.Than.Sports.TV.de
 DE:.Motorsport.tv.de
@@ -85,7 +83,6 @@ DE:.Qello.Concerts.by.Stingray.de
 DE:.Qwest.TV.de
 DE:.Rakuten.VIKI.de
 DE:.Red.Bull.TV.de
-DE:.Reuters.de
 DE:.Revry.de
 DE:.Revry.News.de
 DE:.Rocket.Beans.TV.de
@@ -114,12 +111,14 @@ DE:.Terra.Mater.WILD.de
 DE:.The.Design.Network.de
 DE:.The.Guardian.de
 DE:.The.Pet.Collective.de
+DE:.The.Reuters.60.de
 DE:.Thriller.-.Rakuten.TV.de
 DE:.Tierwelt.de
 DE:.TOP.Barça.de
 DE:.Top.Filme.-.Rakuten.TV.de
 DE:.Top.Gear.de
 DE:.TOP.SCI-FI.de
+DE:.Top.Serien.de
 DE:.Trailers.de
 DE:.Travelxp.de
 DE:.Utopja.de

@@ -13,6 +13,7 @@ NL:.Bloomberg.Originals.nl
 NL:.Bloomberg.Television.nl
 NL:.Buzzfeed.Unsolved.nl
 NL:.Car.City.Adventures.nl
+NL:.Cartoon.Classics.nl
 NL:.CGTN.Documentary.nl
 NL:.CGTN.nl
 NL:.CLUBBING.TV.nl
@@ -32,7 +33,6 @@ NL:.Don’t.Tell.The.Bride.nl
 NL:.Dramafilms.-.Rakuten.TV.nl
 NL:.Dr..G:.Medical.Examiner.nl
 NL:.Duck.Dynasty.nl
-NL:.ducktv.nl
 NL:.Earth.Touch.TV.nl
 NL:.Escape.to.The.Country.nl
 NL:.Euro.Crime.Channel.nl
@@ -44,6 +44,7 @@ NL:.FilmRise.Free.Series.nl
 NL:.Forensic.Files.nl
 NL:.France.24.FAST.English.nl
 NL:.FUEL.TV.nl
+NL:.GLORY.Kickboxing.nl
 NL:.Gone.Fishing.nl
 NL:.Great.British.Menu.nl
 NL:.Grjngo.-.Western.Films.nl
@@ -88,7 +89,6 @@ NL:.Rakuten.VIKI.nl
 NL:.Real.Crime.nl
 NL:.Real.Wild.nl
 NL:.Red.Bull.TV.nl
-NL:.Reuters.nl
 NL:.Revry.News.nl
 NL:.Revry.nl
 NL:.Robot.Wars.by.Mech+.nl
@@ -103,11 +103,11 @@ NL:.Stingray:.Hitlist.nl
 NL:.Stingray.Naturescape.nl
 NL:.Stingray:.Remember.the.80’s.nl
 NL:.Strongman.Champions.League.nl
-NL:.TED.nl
 NL:.Tennis+.nl
 NL:.The.Design.Network.nl
 NL:.The.Guardian.nl
 NL:.The.Pet.Collective.nl
+NL:.The.Reuters.60.nl
 NL:.TNA.Wrestling.Channel.nl
 NL:.TOP.Barça.nl
 NL:.Top.Films.-.Rakuten.TV.nl

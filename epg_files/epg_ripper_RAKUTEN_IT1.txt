@@ -11,13 +11,13 @@ IT:.Brindiamo!.it
 IT:.Car.City.Adventures.it
 IT:.CGTN.Documentary.it
 IT:.CGTN.it
+IT:.Cine.Aliens.it
 IT:.Cinema.Poliziottesco.it
 IT:.CineWestern.it
 IT:.CLUBBING.TV.it
 IT:.Commedia.-.Rakuten.TV.it
 IT:.Dark.Matter.-.Halloween.2024.it
 IT:.Deluxe.Lounge.HD.it
-IT:.DinoMonsters.Movies.it
 IT:.Doctor.Who.it
 IT:.Dramma.-.Rakuten.TV.it
 IT:.Euronews.IN.DIRETTA.it
@@ -37,7 +37,6 @@ IT:.Grjngo.-.Film.Western.it
 IT:.Gusto.TV.it
 IT:.Hard.Knocks.Fighting.Championship.it
 IT:.Hell`s.Kitchen.it
-IT:.Horizon.Sports.it
 IT:.I.film.di.Wim.Wenders.it
 IT:.Inazuma.Eleven.Go.it
 IT:.MAVTV.International.it
@@ -57,7 +56,6 @@ IT:.Radio.Italia.Trend.it
 IT:.Rakuten.VIKI.it
 IT:.Red.Bull.TV.it
 IT:.Relic.Hunter.it
-IT:.Reuters.it
 IT:.Revry.it
 IT:.Revry.News.it
 IT:.Risate.all`italiana.it
@@ -74,6 +72,7 @@ IT:.Teletubbies.it
 IT:.The.Design.Network.it
 IT:.The.Guardian.it
 IT:.The.Pet.Collective.it
+IT:.The.Reuters.60.it
 IT:.TOP.Barça.it
 IT:.Top.Gear.it
 IT:.Trace.Urban.it

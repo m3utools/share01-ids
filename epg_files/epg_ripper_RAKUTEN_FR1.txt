@@ -77,7 +77,6 @@ FR:.Qwest.TV.fr
 FR:.Rakuten.VIKI.fr
 FR:.Red.Bull.TV.fr
 FR:.Reportage.-.Spica.Life.fr
-FR:.Reuters.fr
 FR:.Revry.fr
 FR:.Revry.News.fr
 FR:.Scene.de.Crime.fr
@@ -86,10 +85,12 @@ FR:.Stingray.Greatest.Hits.fr
 FR:.Stingray:.Hitlist.fr
 FR:.Stingray.Naturescape.fr
 FR:.Stingray:.Remember.the.80’s.fr
+FR:.Stormcast.Novelas.fr
 FR:.TELEVISA.Telenovela.Channel.fr
 FR:.The.Design.Network.fr
 FR:.The.Guardian.fr
 FR:.The.Pet.Collective.fr
+FR:.The.Reuters.60.fr
 FR:.Thrillers.-.Rakuten.TV.fr
 FR:.TOP.Barça.fr
 FR:.Top.Films.-.Rakuten.TV.fr

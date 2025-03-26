@@ -20,7 +20,6 @@ ES:.Crimen.-.Rakuten.TV.es
 ES:.Dark.Matter.-.Horror.Visión.es
 ES:.Deluxe.Lounge.HD.es
 ES:.Doctor.Who.es
-ES:.ducktv.es
 ES:.El.País.es
 ES:.En.Familia.-.Rakuten.TV.es
 ES:.Estilo.y.Vida.-.Rakuten.TV.es
@@ -40,6 +39,7 @@ ES:.¡HOLA!.Play.es
 ES:.Ideas.en.5.minutos.es
 ES:.La.fiebre.del.jade.es
 ES:.LaLiga.Inside.es
+ES:.Los.Gipsy.Kings.-.Rakuten.TV.es
 ES:.MAVTV.International.es
 ES:.Motorsport.tv.es
 ES:.MOTORVISION.TV.es
@@ -67,18 +67,18 @@ ES:.Qwest.TV.es
 ES:.Rakuten.VIKI.es
 ES:.Rantaró,.el.ninja.boy.es
 ES:.Red.Bull.TV.es
-ES:.Reuters.es
 ES:.Revry.es
 ES:.Revry.News.es
 ES:.Stingray.Greatest.Hits.es
 ES:.Stingray:.Hitlist.es
 ES:.Stingray.Naturescape.es
 ES:.Stingray:.Remember.the.80’s.es
+ES:.Stormcast.Novelas.es
 ES:.Surf.Channel.es
-ES:.Tastemade.es
 ES:.The.Design.Network.es
 ES:.The.Guardian.es
 ES:.The.Pet.Collective.es
+ES:.The.Reuters.60.es
 ES:.Thrillers.-.Rakuten.TV.es
 ES:.Todo.Crimen.es
 ES:.Todo.Novelas.es
