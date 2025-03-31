@@ -143,7 +143,11 @@ Canal.VH1.HD.(Latinoamérica).mx
 Canal.Vibra.TV.mx
 Canal.Warner.TV.(México).mx
 Canal.WOBI.mx
-FOX.Sports.Premium.MEXICO.mx
+ESPN.MX.mx
+FOX.SPORTS.2.mx
+FOX.SPORTS.3.mx
+FOX.SPORTS.mx
+FOX.SPORTS.PREMIUM.mx
 Sky.Sports.16.mx
 Sky.Sports.24.mx
 Televisa.(XERV).mx
