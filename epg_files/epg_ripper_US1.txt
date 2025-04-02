@@ -93,6 +93,8 @@ Cinemax.-.Eastern.HD.us
 Cinemax.on.Demand.us
 Cinemax.-.Pacific.Feed.us
 Cine.Mexicano.us
+CINEVAULT.us
+CINEVAULT.Westerns.us
 Circle.Country.us
 CMT.US.-.Eastern.Feed.us
 CMT.US.On.Demand.us
@@ -417,6 +419,7 @@ NBC.Sports.Philadelphia.Plus.(NBCSPA+).us
 NBC.Sports.us
 NBC.Universo.-.Eastern.feed.us
 NBC.(WNBC).New.York,.NY.us
+NECN.us
 New.England.Sports.Network.HDTV.(NESNHD).us
 New.England.Sports.Network.Plus.us
 New.England.Sports.Network.us
